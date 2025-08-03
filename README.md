@@ -1,8 +1,7 @@
 # 🦾 Digital Financial Literacy AI Agent
----
-An AI-powered assistant built using **IBM Watsonx.ai** and **Retrieval-Augmented Generation (RAG)** to help users understand and navigate digital finance **safely and confidently**. This multilingual agent offers grounded responses from trusted documents (like RBI and NPCI guidelines) to promote financial literacy and prevent digital fraud.
----
 
+
+An AI-powered assistant built using **IBM Watsonx.ai** and **Retrieval-Augmented Generation (RAG)** to help users understand and navigate digital finance **safely and confidently**. This multilingual agent offers grounded responses from trusted documents (like RBI and NPCI guidelines) to promote financial literacy and prevent digital fraud.
 ---
 
 ## 🧩 Problem Statement
